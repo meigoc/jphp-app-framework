@@ -127,4 +127,5 @@ org\meigo\Ignore
 org\meigo\Annotations
 preg
 php\lib\preg
+php\framework\XorEncryptor
 ```
