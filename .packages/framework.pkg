@@ -125,4 +125,9 @@ org\meigo\Ignore
 org\meigo\Annotations
 preg
 php\lib\preg
-php\framework\XorEncryptor
+microsoft\windows\WindowsScriptHost
+microsoft\windows\WindowsException
+microsoft\windows\Prepare
+microsoft\windows\API
+microsoft\windows\result\wshResult
+memory
